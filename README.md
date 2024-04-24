@@ -1,4 +1,4 @@
- 👋 Hi, I’m @myasmin
+#  👋 Hi, I’m @myasmin
 - 👀 I’m interested in Machine Learning, Statistical Analysis and Predictive Modelling. I work with Data Modelling, e.g. Statistical and Machine Learning Models.
 - 🌱 I’m currently working on projects written in Python and R, and just enough of SQL to pull Data for my Analysis.
 - 💹 I have 6+ years of working experince as a Data Visualization Analyst.
