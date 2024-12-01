@@ -1,4 +1,4 @@
-#  👋 Hi, I’m Mahmuda Yasmin, an aspiring Data Scientist.
+#  👋 Hi, I’m Mahmuda Yasmin, a Data Scientist.
  
  I’m interested in Machine Learning, Statistical Analysis and Predictive Modelling. I work with Data Modelling, e.g. Statistical and Machine Learning Models.
 💹 I have 6+ years of working experince as a Data Visualization Analyst.
